@@ -1,5 +1,11 @@
 # REST
 
+## Go
+
+```zsh
+$ go run server.go
+```
+
 http://localhost:1323/users  
 ```json
 {"1":{"id":1,"name":"foo"},"2":{"id":2,"name":"bar"}}
