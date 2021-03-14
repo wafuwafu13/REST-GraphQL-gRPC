@@ -4,6 +4,16 @@ http://localhost:1323/users
 ```json
 {"1":{"id":1,"name":"foo"},"2":{"id":2,"name":"bar"}}
 ```  
+
+http://localhost:1323/user/1  
+```json
+{"id":1,"name":"foo"}
+```
+
+http://localhost:1323/user/2
+```json
+{"id":2,"name":"bar"}
+```
   
 http://localhost:1323/posts  
 ```json
