@@ -2,6 +2,8 @@
   - [Go](https://github.com/wafuwafu13/rest-graphql-grpc/tree/main/rest/go)
   - [Ruby](https://github.com/wafuwafu13/REST-GraphQL-gRPC/tree/main/rest/ruby/grape-on-rails-api)
     - [Rails 5 APIモード + Grape + Grape::Entityで作るWeb API](https://qiita.com/mktakuya/items/117f1563c2b7e8a6e69c)
+  - [Python](https://github.com/wafuwafu13/REST-GraphQL-gRPC/tree/main/REST/Python/fast-api-tutorial)
+    - [FastAPI入門](https://zenn.dev/sh0nk/books/537bb028709ab9)
 
 - gRPC
   - [Go](https://github.com/wafuwafu13/rest-graphql-grpc/tree/main/grpc/go)
